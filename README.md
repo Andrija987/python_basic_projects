@@ -2,6 +2,7 @@
 Repository contains basic things, syntax, code, functions, and projects in Python
 
 By following the examples created in this repository you can easily learn Python
+
 Some prior experience in programing is desirable but not necessary
 
 Examples go from basic to more complex things
