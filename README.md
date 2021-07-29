@@ -1,4 +1,4 @@
-# Python_basic_projects
+# python_basic_projects
 Repository contains basic things, syntax, code, functions, and projects in Python
 
 By following the examples created in this repository you can easily learn Python
